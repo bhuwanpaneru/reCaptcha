@@ -13030,11 +13030,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bhuwan\\Documents\\Techligent\\GoogleRecap\\GoogleRecap.csproj",
+      "projectUniqueName": "C:\\Users\\Bhuwan\\Documents\\zoo\\Google ReCaptcha\\reCaptcha\\GoogleRecap.csproj",
       "projectName": "GoogleRecap",
-      "projectPath": "C:\\Users\\Bhuwan\\Documents\\Techligent\\GoogleRecap\\GoogleRecap.csproj",
+      "projectPath": "C:\\Users\\Bhuwan\\Documents\\zoo\\Google ReCaptcha\\reCaptcha\\GoogleRecap.csproj",
       "packagesPath": "C:\\Users\\Bhuwan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bhuwan\\Documents\\Techligent\\GoogleRecap\\obj\\",
+      "outputPath": "C:\\Users\\Bhuwan\\Documents\\zoo\\Google ReCaptcha\\reCaptcha\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
